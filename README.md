@@ -1,12 +1,6 @@
 ![logo](https://github.com/Lokesh251178/Lokesh251178/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, VENKATA SAI LOKESH CHANDALURI</h1>
 <h3 align="center">A Passionate and driven full-stack developer</h3>
-<h3 align="left">short professional bio:</h3>
-<h3 align="left"> Detail-oriented Full Stack Developer with hands-on experience in building and maintaining web applications.
-                Proficient in both front-end and back-end technologies, demonstrated through successful internships.<br>Eager to contribute technical expertise and innovative problem-solving skills to a dynamic development team.</h3>
-
-
-
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
