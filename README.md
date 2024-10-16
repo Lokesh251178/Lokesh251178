@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Lokesh251178/Lokesh251178/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, VENKATA SAI LOKESH CHANDALURI</h1>
 <h3 align="center">A Passionate and driven full-stack developer</h3>
 <h3 align="left">short professional bio:</h3>
