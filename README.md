@@ -1,32 +1,23 @@
+# Hi, I'm [Your Name] 👋
 
+## short professional bio
 
+I'm a [Your Profession/Student] with a passion for [Your Interests]. I'm always looking to learn and improve my skills in [Specific Skills].
 
-👋 Hi, I’m Sri Sai Sridhar Dasari!
-👀 About Me
-I'm a passionate software engineer and designer with a knack for front-end development and a deep interest in artificial intelligence. I enjoy blending creativity with technology to build applications that solve real-world problems.
+## Skills
 
-🌱 Currently Learning
-I'm diving into advanced computer vision and natural language processing techniques to enhance my AI skillset. My latest projects involve building an emotion detection system and experimenting with gesture recognition using OpenCV and Mediapipe.
+* Programming languages: [List of programming languages you know]
+* Technologies: [List of technologies you're familiar with]
+* Tools: [List of tools you use]
 
-💼 What I Do
-I love working on AI-powered applications and am always excited to collaborate on innovative projects. I'm particularly interested in:
+## Projects
 
-Front-end development
-Artificial intelligence
-Mobile application development
-Computer vision
-❣️ Collaboration
-I'm looking to collaborate on projects that merge AI with interactive applications—whether it's emotion recognition, virtual drawing tools, or voice assistants. If you have a cool project in mind, let’s connect!
+Here are some of my notable projects:
 
-📫 How to Reach Me
-Email:srisridasari@gmail.com
-LinkedIn: https://www.linkedin.com/in/sri-sai-sridhar-dasari-0688b8232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-GitHub: Right here!
-Pronouns
-He/Him
+* [Project 1](https://github.com/your-username/project-1) - [Project description]
+* [Project 2](https://github.com/your-username/project-2) - [Project description]
 
-⚡Fun Fact
-I’m a big fan of anime, and in my free time, I sketch my favorite characters.
+## Contact Me
 
-📄Resume
-Sridhar Resume.pdf
+You can reach me at [Your Email](mailto:your-email@example.com) or(https://www.linkedin.com/in/your-linkedin-profile/).
+
